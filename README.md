@@ -11,8 +11,8 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
- src= [https://media4.giphy.com/media/7uDtQm2jKdS0VGLg46/giphy.gif?cid=ecf05e472d2c0ws9hmfkaxh0a8yjan9u6yhhmqyoq7obvx38&rid=giphy.gif&ct=g"[https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676](https://media4.giphy.com/media/7uDtQm2jKdS0VGLg46/giphy.gif?cid=ecf05e472d2c0ws9hmfkaxh0a8yjan9u6yhhmqyoq7obvx38&rid=giphy.gif&ct=g)](https://images.pexels.com/photos/879109/pexels-photo-879109.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)">
-</div>
+src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  </div>
   
   ##
   
