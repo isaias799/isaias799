@@ -2,8 +2,8 @@
 
 <div align="">
   <a href="https://github.com/isaias799">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=isaias799&show_icons=true&theme=onedarkpro&include_all_commits=true&count_private=true"/>  
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaias799&layout=compact&langs_count=7&theme=onedarpro"/> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=isaias799&show_icons=true&theme=neonuxt&include_all_commits=true&count_private=true"/>  
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaias799&layout=compact&langs_count=7&theme=neonuxt"/> 
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
