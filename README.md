@@ -1,9 +1,5 @@
 ## Olá, eu sou o Isaías Amaral 👋
 
-
-- 🔭 Estudante de Ciência de Dados
-- 🌱 É a teoria que decide o que podemos observar.
-
 <div align="center">
   <a href="https://github.com/isaias799">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaias799&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
