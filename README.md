@@ -11,7 +11,6 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
-src="https://media4.giphy.com/media/7uDtQm2jKdS0VGLg46/giphy.gif?cid=ecf05e47nch370apsg1rcii634ai2qzjlbm2h9xjf82c31i3&rid=giphy.gif&ct=g">
 </div>
   
   ##
