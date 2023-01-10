@@ -6,12 +6,6 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaias799&layout=compact&langs_count=7&theme=radical"/> 
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
- src="https://media2.giphy.com/media/zXzMKb3CQoBSVsuW0V/giphy.gif">
 </div>
   
   ##
